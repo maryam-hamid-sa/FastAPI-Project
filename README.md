@@ -2,14 +2,14 @@
 
 A lightweight and efficient RESTful API built with Python and FastAPI. This project demonstrates basic API routing and JSON response handling.
 
-## 📌 Features
+##  Features
 This project includes the following API endpoints:
 *   `GET /` - Root endpoint returning a simple greeting.
 *   `GET /about` - Returns institutional and course information (BanoQabil - Python).
 *   `GET /profile` - Fetches active user profile data.
 *   `GET /contact` - Provides support contact details and email.
 
-## 🛠️ Getting Started
+##  Getting Started
 
 Follow these instructions to set up and run the project on your local machine.
 
