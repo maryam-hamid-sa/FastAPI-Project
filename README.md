@@ -63,6 +63,6 @@ Swagger UI: Navigate to http://127.0.0.1:8000/docs
 
 ReDoc: Navigate to http://127.0.0.1:8000/redoc
 
-<img width="1920" height="1080" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/d5b44a7d-f178-4fb7-82da-24150b2520ba" />
+<img width="1920" height="750" alt="Screenshot (20)(1)" src="https://github.com/user-attachments/assets/1b4eb284-85b7-47a4-8932-b5ef51fd7402" />
 
 Developed by Maryam Hamid
